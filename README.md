@@ -7,7 +7,7 @@ Optimized to run efficiently on **Apple Silicon (MPS)** with CPU fallback.
 
 ## 📦 Features
 - **Apple MPS support**: Accelerated training on Apple Silicon GPUs (falls back to CPU automatically).
-- **Compact CNN (~0.8M params)**: Achieves ~93–94% test accuracy in ~20–30 epochs.
+- **Compact CNN (~0.8M params)**: Achieves ~92% test accuracy in ~40 epochs.
 - **Regularization tricks**: Label smoothing, dropout, weight decay, gradient clipping.
 - **Modern optimizations**:
   - **AdamW** optimizer with proper weight-decay hygiene.
