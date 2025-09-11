@@ -22,7 +22,7 @@ Optimized to run efficiently on **Apple Silicon (MPS)** with CPU fallback.
 
 ### 1. Clone and Install
 ```bash
-git clone https://github.com/<your-username>/fashion-mnist-mps.git
+git clone https://github.com/adavyas/fashion-mnist-mps.git
 cd fashion-mnist-mps
 python3 -m venv env
 source env/bin/activate   # or `source env/bin/activate.fish` if using fish shell
